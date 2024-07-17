@@ -3,3 +3,5 @@
 - git add
 - git pull
 - git push
+- git commit -m "commit messsage"
+- git status
